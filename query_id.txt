@@ -1,0 +1,1 @@
+query_id=AAH8EbcrAwAAAPwRtyus-erL&user=%7B%22id%22%3A7175868924%2C%22first_name%22%3A%22Praise%20%F0%9F%8D%85%20%F0%9F%8D%96BBQ%22%2C%22last_name%22%3A%22%22%2C%22username%22%3A%22zeroxams%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1731046875&hash=4650bc6773cad7afba9a048b3167b1480b51025afe18071246a39c4f23b517f9
